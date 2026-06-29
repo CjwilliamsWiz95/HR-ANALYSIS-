@@ -12,7 +12,35 @@ Understand the impact of salary, tenure, and job roles on turnover
 Enable HR teams to make strategic, data-backed decisions.
 
 ## 📌 Key Metrics
-Total Employees: 1480
-Average Tenure: 7.01 years
-Average Salary: $6.5K
-Attrition Count & Rate across multiple dimensions
+• Total Employees: 1480
+• Average Tenure: 7.01 years
+• Average Salary: $6.5K
+• Attrition Count & Rate across multiple dimensions
+
+## 📈 Dashboard Insights
+🔹 Attrition by Education Field
+Life Sciences and Medical fields show the highest attrition
+Technical fields contribute less comparatively
+🔹 Attrition by Age Group
+Highest attrition observed in the 26–35 age group
+Younger employees (18–25) also show notable turnover
+Attrition declines as age increases
+🔹 Attrition by Department
+Research & Development leads in attrition
+Followed by Sales
+HR shows minimal turnover
+🔹 Attrition by Salary Slab
+Majority of attrition occurs in the lowest salary band (≤ $5K)
+Higher salary brackets show significantly lower attrition
+🔹 Attrition by Years at Company
+Peak attrition happens within the first few years
+Long-term employees are more stable
+🔹 Attrition by Business Travel
+Employees who travel frequently have higher attrition
+Non-traveling employees are the most stable
+🔹 Attrition by Marital Status
+Single employees show the highest attrition
+Married employees are more likely to stay
+🔹 Job Roles & Levels
+Roles like Sales Representatives and Laboratory Technicians show higher attrition counts
+Attrition decreases at higher job levels
