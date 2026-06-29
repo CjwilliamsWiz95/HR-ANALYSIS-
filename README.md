@@ -56,4 +56,30 @@ Roles like Sales Representatives and Laboratory Technicians show higher attritio
 Attrition decreases at higher job levels
 
 ## Dashboard Preview
+https://github.com/CjwilliamsWiz95/HR-ANALYSIS-/blob/main/Screenshot%202026-06-29%20082733.png
 
+## 🛠️ Tools & Technologies
+• Power BI – Data visualization & dashboard design
+
+• Data Cleaning & Transformation – Power Query
+
+• DAX – Calculated measures and KPIs
+
+## 🛠️ Tools & Technologies
+• Power BI – Data visualization & dashboard design
+
+• Data Cleaning & Transformation – Power Query
+
+• DAX – Calculated measures and KPIs
+
+## 💡 Key Takeaways
+● Compensation plays a major role in employee retention
+
+● Early-stage employees are the most vulnerable to leaving
+
+● Job role and travel frequency significantly influence attrition
+
+● Strategic HR interventions should target high-risk groups
+
+## 📂 Project Value
+This dashboard acts as a decision-support system for HR teams, helping reduce attrition, improve employee satisfaction, and optimize workforce planning.
