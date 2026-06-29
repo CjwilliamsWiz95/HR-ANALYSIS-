@@ -54,3 +54,6 @@ Married employees are more likely to stay
 🔹 Job Roles & Levels
 Roles like Sales Representatives and Laboratory Technicians show higher attrition counts
 Attrition decreases at higher job levels
+
+## Dashboard Preview
+
